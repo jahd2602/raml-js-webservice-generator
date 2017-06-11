@@ -5,7 +5,7 @@
   "main": "src/ui/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerson/raml-js-webservice-generator.git"
+    "url": "https://github.com/jahd2602/raml-webservice-generator.git"
   },
   "keywords": [
     "raml",
@@ -22,15 +22,9 @@
   ],
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/jerson/raml-js-webservice-generator/issues"
+    "url": "https://github.com/jahd2602/raml-webservice-generator/issues"
   },
-  "homepage": "https://github.com/jerson/raml-js-webservice-generator",
-  "files": [
-    "languages/",
-    "lib/",
-    "bin/",
-    "LICENSE"
-  ],
+  "homepage": "https://github.com/jahd2602/raml-webservice-generator",
   "scripts": {
     "test": "gulp test",
     "build": "gulp build:js"
